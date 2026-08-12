@@ -20,4 +20,4 @@ def registrar_adoptante():
             False
 
 def agregar_animal():
-    adoptantes = registrar_adoptante()
+    ado ptantes = registrar_adoptante()
